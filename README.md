@@ -57,5 +57,5 @@ This project is open-source and licensed under the MIT License. We encourage con
 
 
 [Google Drive's link] (https://docs.google.com/document/d/1WXkrV_WXrxHGaHoOLogK8R0i5Q0M485LR06qGD6W74w/edit)
-![Candida antartica] (https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/07cfd7f2-575c-49ea-9be3-22c928d34cec/mcontent.gif)
+![AlphaFold] (https://ultracleansystems.com/wp-content/uploads/2022/09/msb202211081-fig-0006-m-1080x675.jpg)
 
