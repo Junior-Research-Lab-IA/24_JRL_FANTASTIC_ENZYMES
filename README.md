@@ -57,4 +57,5 @@ This project is open-source and licensed under the MIT License. We encourage con
 
 
 [Google Drive's link] (https://docs.google.com/document/d/1WXkrV_WXrxHGaHoOLogK8R0i5Q0M485LR06qGD6W74w/edit)
-![Candida antartica] (https://www.bing.com/images/search?view=detailV2&ccid=KFiiHPcY&id=4DE46C02A682C5AFE48AF2338CA96787EE03F528&thid=OIP.KFiiHPcYUka9A5fR_uB5vgAAAA&mediaurl=https%3a%2f%2fchemistry-europe.onlinelibrary.wiley.com%2fcms%2fasset%2f90c7c94b-0fee-4641-9ece-1af1801103c4%2fmcontent.jpg%3ftrick%3d1708346310495&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2858a21cf7185246bd0397d1fee079be%3frik%3dKPUD7odnqYwz8g%26pid%3dImgRaw%26r%3d0&exph=345&expw=345&q=acyltransferase+candida&simid=608048876112142928&FORM=IRPRST&ck=B3932B7B5BE3202C1FCA2D3550E32433&selectedIndex=2&itb=0&ajaxhist=0&ajaxserp=0)
+![Candida antartica] (https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/07cfd7f2-575c-49ea-9be3-22c928d34cec/mcontent.gif)
+
